@@ -62,7 +62,7 @@ Este GitHub é onde pretendo registrar meus projetos, estudos e minha evolução
 
 Alguns dos projetos que serão adicionados:
 
-* 🖥️ **IT Asset Manager** — sistema para gerenciamento e acompanhamento de equipamentos de TI
+* 💻 **IT Asset Manager** — sistema para gerenciamento e acompanhamento de equipamentos de TI
 * 🌐 **Portfólio pessoal** — meu site pessoal desenvolvido com HTML, CSS e JavaScript
 * 🗄️ **Projetos de Banco de Dados** — projetos acadêmicos utilizando SQL
 * 🏠 **Home Server** — projetos envolvendo servidores, DNS e serviços em rede
