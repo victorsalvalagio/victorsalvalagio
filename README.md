@@ -1,4 +1,4 @@
-# Olá, eu sou o Victor! 👋
+# Olá, eu sou o Victor!
 
  Estudante de **Engenharia da Computação**
  Interessado em **Infraestrutura de TI** e **Cybersecurity**
