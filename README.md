@@ -1,8 +1,8 @@
 # Olá, eu sou o Victor! 👋
 
-🎓 Estudante de **Engenharia da Computação**
-💻 Interessado em **Infraestrutura de TI** e **Cybersecurity**
-🛠️ Atualmente desenvolvendo projetos para colocar em prática meus conhecimentos em tecnologia.
+ Estudante de **Engenharia da Computação**
+ Interessado em **Infraestrutura de TI** e **Cybersecurity**
+ Atualmente desenvolvendo projetos para colocar em prática meus conhecimentos em tecnologia.
 
 ---
 
@@ -12,12 +12,12 @@ Sou estudante de Engenharia da Computação e atualmente atuo na área de **Infr
 
 Tenho interesse principalmente em:
 
-* 🖥️ Infraestrutura e suporte de TI
-* 🌐 Redes e administração de sistemas
-* 🔐 Cybersecurity
-* 🗄️ Banco de dados
-* 💻 Desenvolvimento de software
-* 🏠 Homelab e servidores
+*  Infraestrutura e suporte de TI
+*  Redes e administração de sistemas
+*  Cybersecurity
+*  Banco de dados
+*  Desenvolvimento de software
+*  Homelab e servidores
 
 Este GitHub é onde pretendo registrar meus projetos, estudos e minha evolução na área de tecnologia.
 
