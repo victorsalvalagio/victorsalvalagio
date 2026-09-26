@@ -64,7 +64,7 @@ Alguns dos projetos que serão adicionados:
 
 * 💻 **IT Asset Manager** — sistema para gerenciamento e acompanhamento de equipamentos de TI
 * 🌐 **Portfólio pessoal** — meu site pessoal desenvolvido com HTML, CSS e JavaScript
-* 🗄️ **Projetos de Banco de Dados** — projetos acadêmicos utilizando SQL
+* 💾 **Projetos de Banco de Dados** — projetos acadêmicos utilizando SQL
 * 🏠 **Home Server** — projetos envolvendo servidores, DNS e serviços em rede
 * 🔐 **Cybersecurity** — projetos e laboratórios voltados para segurança da informação
 
